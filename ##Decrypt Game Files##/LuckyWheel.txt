@@ -1,0 +1,4 @@
+1 PAWN for THE ADVENTURER
+THE MASTER starts off with 2 EXTRA HEALTH from now on
+GAIN 1 PIECE! (at random)
+THE MASTER no longer needs to SETUP PIECES

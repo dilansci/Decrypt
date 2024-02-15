@@ -1,0 +1,10 @@
+GAIN 1 PIECE! (at random)
+Make a PIECE revert to it's original stats. If you can't, REDUCE a stat by 1
+THE MASTER starts with a PAWN on the next MATCH.
+THE ADVENTURER starts with a PAWN on the next MATCH.
+THE ADVENTURER boosts a stat of 1 PIECE by 1.
+THE ADVENTURER's BISHOPS can only attack 1 diagonal.(THEY CHOOSE)
+THE ADVENTURER GAINS 1 ITEM.
+THE MASTER can DESTROY 1 PIECE THE ADVENTURER controls the next MATCH.
+THE ADVENTURER starts with 2 TOKENS the next MATCH.
+THE ADVENTURER starts the next MATCH with 1 DAMAGE COUNTER.

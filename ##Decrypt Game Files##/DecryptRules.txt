@@ -1,0 +1,50 @@
+Decrypt is a 2 player game which has one player as 'The Master' (OR 'Mstr' for short) and the other as 'The Adventurer' (OR 'Adv' for short). 
+The 'Adv' goal is to reach all 4 corners of the chess board (travelling along the outside of the board one space at a time) whilst competing in 
+matches against the 'Mstr' gaining increaslingly difficult as the game progresses.
+--------------------------------------------------------
+The List of 'Pieces' stats and abilities are shown here:
+--------------------------------------------------------
+The Pawn - 1ATK - 1HLTH - COST: FREE!
+- no ability (or has it??)
+-------------------------------------
+The Bishop - 1ATK - 1HLTH - COST: 2TOKENS 
+- can attack the positions to it's left and right diagonally but not forward.
+------------------------------------------------------------------
+The Horse - 1ATK - 3HLTH - COST: 2TOKENS 
+- once it attacks it will move one place to its right, 
+  any 'Pieces' in that place will be pushed along with it. 
+  If it has reached the end (OR can no longer move) 
+  then it will change direction until it reaches
+  another end e.g. right to left
+----------------------------------------------------------
+The Castle - 2ATK - 2HLTH - COST: 3TOKENS 
+- when a 'Piece' is destroyed beside OR in front of the castle, the castle will gain 1ATK.
+-------------------------------------------------------
+The Queen - 1ATK - 5HLTH - COST: 6TOKENS (it's cost will reduce depending on the number of destroyed 'Pieces' in the Grave) 
+- can attack the positions to it's left and right diagonally
+  and in front of it. 
+  if a 'Pawn' is placed beside 'The Queen', 
+  the 'Pawn' will lose it's ATK and 'The Queen' 
+  will gain 1ATK and will lose it when the 'Pawn' dies.
+-----------------------------------------------
+The King! - 3ATK - 3HLTH - COST: 1TOKEN
+- while on the field ALL 'Pawns' are destroyed
+  (cannot be played).
+  can only be used in BOSS matches
+  if your king dies then the game will end :)
+  (aka YOU LOSE!)
+---------------------------------------------
+Starting Off
+------------
+The 'Adv' will start with 3 Pawns and 1 Horse as his/her starting 'Pieces'. As the journey continues, the 'Adv' 
+will get the chance to obtain more 'Pieces' to strengthen their army!
+
+Battle Stages
+-------------
+At the beginning of every 'Adv' turn, the 'Adv' will gain 1TOKEN
+The Board has outer spaces which will act as the 'Adv' path and a 4x4 grid which is where the 'Pieces' will battle!
+To start the battle, the 'Mstr' will 'SETUP' his 'Pieces' in the lower 4 tiles. This give the 'Adv' the chance to 
+strategise over how to defeat this opponent. The 'Adv' DOES NOT need to 'SETUP' his 'Pieces'. When the turn is ENDED 
+all 'Pieces' currently on the board will attack
+
+### YOU CAN ONLY REVIVE 1 'PIECE' AND 1 PAWN AT THE BEGINNING OF YOUR TURN

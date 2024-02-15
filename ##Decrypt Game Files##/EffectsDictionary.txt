@@ -1,0 +1,12 @@
+Pieces Effects
+------------------------------
+Stank - A PIECE with this effect takes 1 DAMAGE every turn.
+Fragility - A PIECE with this effect 'cannot be revived'.
+Shield - A PIECE with a Shield is able to take '1 hit without recieving any DAMAGE'.
+------------------------------
+Item Effects
+------------------------------
+Knife - Put 4 DAMAGE COUNTERS on THE MASTER.
+Shield Bomb - Give all your PIECES currently on the field 'Shield'.
+Remote - Remove all of THE MASTER's SETUP PIECES.
+------------------------------

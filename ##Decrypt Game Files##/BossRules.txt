@@ -1,0 +1,4 @@
+On each of THE ADVENTURER's turns, they will recieve 1 DAMAGE COUNTER
+THE MASTER starts with 2 PAWNS on the field.
+THE MASTER starts with 10 HEALTH instead of 5
+THE ADVENTURER must also SETUP pieces before playing them.
