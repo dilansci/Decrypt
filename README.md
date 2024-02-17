@@ -3,4 +3,4 @@ The contents of this repo have the **"Randomiser"** for the game **'Decrypt'**, 
 
 More info on the game itself can be found in the **"DecryptRules.txt"** document. 
 
-Currently this project is still underway, but will hopefully have updates in the future 😊. (maybe some actual UI...) 
+Currently this project is still underway, but I will hopefully have updates coming in the near future 😊. (maybe some actual UI...) 
