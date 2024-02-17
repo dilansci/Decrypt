@@ -3,4 +3,4 @@ The contents of this repo have the **"Randomiser"** for the game **'Decrypt'**, 
 
 More info on the game itself can be found in the **"DecryptRules.txt"** document. 
 
-Lots of the randomiser and game rules aren't fully fine tuned but stick around for more updates!!! 
+Currently this project is still underway, but will hopefully have updates in the future 😊. (maybe some actual UI...) 
